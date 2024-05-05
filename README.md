@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjju)](https://solved.ac/songjju)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skh028)](https://solved.ac/skh028)
 <!--
 **songjju/songjju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
